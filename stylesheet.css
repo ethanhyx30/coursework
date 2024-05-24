@@ -1,0 +1,35 @@
+body{
+    margin:0; 
+    background-color: #970830;
+    /* Remove the margin on the outside of the website to make it more immersive */
+}
+.top {
+    background-color: #970830;
+    color: #002e60;
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    padding:15px;
+    width:100%;
+    float: left;
+    font-family:'Fantasy', 'Copperplate';
+    text-shadow: 1px 1px 2px white;
+    /* Design for the top each the page and the logo */
+}
+
+.bottom{
+    background-color: #970830;
+    float: left;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+    /* Design for the bottom of each page, where contact information and credits are written */
+}
+.container{
+    position:relative;
+    width: 100%;
+    background-color: blue;
+    float: left; 
+}
