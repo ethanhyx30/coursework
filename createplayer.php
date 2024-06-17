@@ -15,7 +15,7 @@
     <div class = "container">   
         <!-- Allows the user to enter information, which will then be entered into the database via addplayer.php -->
         <form action="addplayer.php" method = "post"> 
-            First Name:<input type = "text" name = "firstname"><br>
+            First Name:<input type = "text" name = "firstname" class = "input"><br>
             Last Name:<input type = "text" name = "lastname"><br>
             Position:<select name = "position">
                 <option value = "PG">Point Guard</option>
